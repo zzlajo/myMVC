@@ -1,5 +1,5 @@
 <?php
-
+// main class
 require_once 'controller/class.MyApplication.php';
 
 $app = new MyApplication();
