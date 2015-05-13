@@ -7,5 +7,5 @@ $app = new MyApplication();
 $app->init();
 // run appp
 $app->run();
-
+// end
 ?>
